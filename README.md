@@ -1,3 +1,8 @@
+**Spring Security is essentially just a bunch of servlet filters that enable Java applications to include authentication and authorization functionality. It is one of the most powerful, and highly customizable access-control frameworks (security framework) that provide authentication, authorization, and other security features for Java EE (Enterprise edition) based enterprise applications. The real power of Spring Security lies in its ability to be extended to meet custom needs. Its main responsibility is to authenticate and authorize incoming requests for accessing any resource, including rest API endpoints, MVC (Model-View-Controller) URLs, static resources, etc.  
+**
+
+
+
 # Spring-security-jwt
 Steps to implement jwt token:
 1)  Make sure spring-boot-starter-security is there in pom.xml
